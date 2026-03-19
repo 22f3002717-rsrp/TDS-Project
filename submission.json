@@ -1,0 +1,8 @@
+{
+  "prompt": "A haunting, cinematic wide-angle editorial photograph. A colossal, gravity-defying architectural structure where the top 10% of the frame is a lush, vibrant floating oasis of green gardens and white marble, bathed in golden sunlight. Below it, stretching into a dark, foggy abyss, is a dense, suffocating forest of rusted iron scaffolding and cramped shanty-structures where the bottom 50% of the population lives in permanent shadow. The scale is 52 to 8. No text, no labels, no charts, no legends. High contrast, atmospheric perspective, National Geographic photography style, somber mood.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "World Inequality Report 2022",
+  "dataset_url": "https://wir2022.wid.world/",
+  "insight": "The richest 10% of the global population captures 52% of total income, while the poorest 50% earns only 8%.",
+  "publish_email": true
+}
