@@ -1,0 +1,6 @@
+{
+  "prompt": "A single, photorealistic frame showing an infinite, spiraling staircase made of dark, polished wood. On each individual flight of stairs, a group of miniature people are all consistently and clearly walking upwards. However, when the viewer looks at the overall, large-scale spiral structure of the staircase, it is visually and unmistakably descending into a deep, circular void. The composition uses dramatic, directional lighting and shadows to emphasize the impossible contradiction of local ascent and global descent. No text, numbers, or chart elements are visible. The image is composed as a standalone, unsettling visual.",
+  "model": "Flux Pro 1.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "This single image functions as a spatial diptych. The viewer simultaneously sees local trends (miniature people ascending each flight) and a global trend (the entire staircase descending), creating an uncanny, unresolved perception where local data contradicts the whole."
+}
