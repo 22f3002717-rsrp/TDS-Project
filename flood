@@ -1,0 +1,7 @@
+{
+  "prompt": "A massive, towering wall of dark, churning floodwater and storms is shown in profile. The water is composed not just of liquid, but of countless miniature, fragmented wooden houses, tiny tents, and tiny boats, all tightly compressed and tumbling within the wave. The sheer scale of this 'displaced object' creates a sense of overwhelming weight and chaos. Below the high-water line, the scene is suffocating and dense. In the upper right corner, above the storm, a small, warm, and untouched coastline is visible in the far distance, providing a single point of stable light and creating a stark figure-ground contrast with the vastness of the water below. The image is rendered with a textured, photorealistic cinematic style, using cool, oppressive blues and greys for the displacement, and warm ochres for the distant land, interpretatable without labels. --ar 16:9 --style raw",
+  "model": "Nano Banana",
+  "dataset_name": "Internal Displacement Monitoring Centre (IDMC): Global Report on Internal Displacement 2024",
+  "dataset_url": "https://www.internal-displacement.org/publications/2024-global-report-on-internal-displacement/",
+  "insight": "The scale of people globally forced from their homes by climate-related disasters is equivalent to an overpowering, unstoppable force that subsumes entire communities, creating a visceral contrast between the stable few and the unstable many."
+}
